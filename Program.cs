@@ -9,6 +9,7 @@ namespace TesteGit
             Console.WriteLine("Hello World!");
             Console.WriteLine("Bom dia!");
             Console.WriteLine("Como você está hoje?");
+            Console.WriteLine("Testando o 4° commit");
         }
     }
 }
