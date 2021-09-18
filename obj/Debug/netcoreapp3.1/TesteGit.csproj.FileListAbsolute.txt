@@ -1,0 +1,13 @@
+D:\Programação\OOP\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.exe
+D:\Programação\OOP\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.deps.json
+D:\Programação\OOP\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.json
+D:\Programação\OOP\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.runtimeconfig.dev.json
+D:\Programação\OOP\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.dll
+D:\Programação\OOP\TesteGit\bin\Debug\netcoreapp3.1\TesteGit.pdb
+D:\Programação\OOP\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csproj.AssemblyReference.cache
+D:\Programação\OOP\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfoInputs.cache
+D:\Programação\OOP\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.AssemblyInfo.cs
+D:\Programação\OOP\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.csproj.CoreCompileInputs.cache
+D:\Programação\OOP\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.dll
+D:\Programação\OOP\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.pdb
+D:\Programação\OOP\TesteGit\obj\Debug\netcoreapp3.1\TesteGit.genruntimeconfig.cache
